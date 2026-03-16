@@ -674,4 +674,4 @@
 </script>
 </body>
 </html>
-
+<img src='CAA292E5-A989-4109-8D4B-7ABA3F5A2E12_1_102_o.jpeg' alt='Instructor Photo'>
